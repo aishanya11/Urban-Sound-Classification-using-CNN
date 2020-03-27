@@ -25,3 +25,5 @@ So the objective of this project is to address the above two mentioned challenge
 To apply Deep Learning techniques to the classification problem of environmental sounds, specifically focusing on the identification of particular urban sounds.
 When given an audio sample in a computer readable format (such as a .wav file) of a few seconds duration, we want to be able to determine if it contains one of the target urban sounds with a corresponding Classification Accuracy score. We want our model to return various predictions along with the corresponding probability.
 
+## FULL REPORT 
+https://docs.google.com/document/d/1jjsGQrt7CF3Hgz0ypewlMFymtC9Ljy6GKR0V0jliQlI/edit?usp=sharing
